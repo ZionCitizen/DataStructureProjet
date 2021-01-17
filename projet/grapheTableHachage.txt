@@ -1,0 +1,19 @@
+// a chaque éxécution  de la question 4  ce fichier est écrasé
+Taille des Données:         Temps Necessaire a la Recherche:(ms)
+1000				140
+2000				312
+3000				516
+4000				735
+5000				812
+6000				1391
+7000				1375
+8000				1765
+9000				1907
+10000				2609	
+20000				6735
+30000				15220
+40000				22280
+50000				32970
+100000				108300
+
+

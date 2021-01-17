@@ -1,0 +1,5 @@
+Taille des Données:   Temps Necessaire a la Recherche:(ms)
+1000                              281
+2000                              625
+3000                              1078
+4000                              2109
