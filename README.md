@@ -4,4 +4,4 @@ contenue
 implémentation liste + primitives
 implémentation AVL 
 implémentation d'une table de hachage
-comparaison du temps de recherche d'un nombre dans  un AVL et une table de hachage 
+comparaison du temps de recherche d'un nombre dans un AVL et dans une table de hachage 
